@@ -1,7 +1,7 @@
 explainer_saving_dir: ''
 explainer_saving_name: 'pgexplainer.pth'
 explanation_result_dir: ''
-sparsity: 0.5
+sparsity: 0.8
 
 param:
   bbbp:
@@ -12,6 +12,7 @@ param:
     t0: 5.0
     t1: 1.0
     undirected: True
+    sample_bias: 0.0
   ba_shapes:
     ex_learning_rate: 0.001
     ex_epochs: 10
@@ -85,3 +86,4 @@ param:
     t0: 5.0
     t1: 1.0
     undirected: True
+    sample_bias: 0.0

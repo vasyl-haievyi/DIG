@@ -155,12 +155,12 @@ def pipeline(config):
     eval_model.to(device)
 
     if config.models.param.graph_classification:
-        if config.models.param.concate:
+        if ('concate' in config.models.param) and config.models.param.concate:
             input_dim = sum(config.models.param.gnn_latent_dim) * 2
         else:
             input_dim = config.models.param.gnn_latent_dim[-1] * 2
     else:
-        if config.models.param.concate:
+        if ('concate' in config.models.param) and config.models.param.concate:
             input_dim = sum(config.models.param.gnn_latent_dim) * 3
         else:
             input_dim = config.models.param.gnn_latent_dim[-1] * 3
@@ -183,7 +183,7 @@ def pipeline(config):
 
     if os.path.isfile(pgexplainer_saving_path):
         print("Load saved PGExplainer model...")
-        state_dict = torch.load(pgexplainer_saving_path)
+        state_dict = torch.load(pgexplainer_saving_path, map_location=torch.device('cpu'))
         pgexplainer.load_state_dict(state_dict)
     else:
         if config.models.param.graph_classification:
