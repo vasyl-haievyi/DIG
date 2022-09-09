@@ -1,0 +1,716 @@
+{
+  "custom": {
+    "0.5": {
+      "all + atom + signed": {
+        "fidelity": 0.31427502632141113,
+        "fidelity_inv": 0.18459093570709229,
+        "sparsity": 0.502816915512085,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + atom + absolute": {
+        "fidelity": 0.234095498919487,
+        "fidelity_inv": 0.23500633239746094,
+        "sparsity": 0.502816915512085,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + signed": {
+        "fidelity": 0.377490758895874,
+        "fidelity_inv": 0.09970561414957047,
+        "sparsity": 0.502816915512085,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + absolute": {
+        "fidelity": 0.23133260011672974,
+        "fidelity_inv": 0.26438233256340027,
+        "sparsity": 0.502816915512085,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + signed": {
+        "fidelity": 0.23239727318286896,
+        "fidelity_inv": 0.23673802614212036,
+        "sparsity": 0.502816915512085,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + absolute": {
+        "fidelity": 0.27379000186920166,
+        "fidelity_inv": 0.1315094381570816,
+        "sparsity": 0.502816915512085,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + signed": {
+        "fidelity": 0.2849494516849518,
+        "fidelity_inv": 0.28937384486198425,
+        "sparsity": 0.502816915512085,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + absolute": {
+        "fidelity": 0.22985272109508514,
+        "fidelity_inv": 0.2271135002374649,
+        "sparsity": 0.502816915512085,
+        "accuracy": NaN,
+        "stability": NaN
+      }
+    },
+    "0.55": {
+      "all + atom + signed": {
+        "fidelity": 0.29826685786247253,
+        "fidelity_inv": 0.17805388569831848,
+        "sparsity": 0.5549535155296326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + atom + absolute": {
+        "fidelity": 0.24328221380710602,
+        "fidelity_inv": 0.23815587162971497,
+        "sparsity": 0.5549535155296326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + signed": {
+        "fidelity": 0.36644232273101807,
+        "fidelity_inv": 0.09562621265649796,
+        "sparsity": 0.5549535155296326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + absolute": {
+        "fidelity": 0.1983269453048706,
+        "fidelity_inv": 0.2994301915168762,
+        "sparsity": 0.5549535155296326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + signed": {
+        "fidelity": 0.24087895452976227,
+        "fidelity_inv": 0.2566266357898712,
+        "sparsity": 0.5549535155296326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + absolute": {
+        "fidelity": 0.28804951906204224,
+        "fidelity_inv": 0.17540094256401062,
+        "sparsity": 0.5549535155296326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + signed": {
+        "fidelity": 0.2686558663845062,
+        "fidelity_inv": 0.3148646652698517,
+        "sparsity": 0.5549535155296326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + absolute": {
+        "fidelity": 0.2115243375301361,
+        "fidelity_inv": 0.25520917773246765,
+        "sparsity": 0.5549535155296326,
+        "accuracy": NaN,
+        "stability": NaN
+      }
+    },
+    "0.6": {
+      "all + atom + signed": {
+        "fidelity": 0.284483402967453,
+        "fidelity_inv": 0.19672979414463043,
+        "sparsity": 0.6043654680252075,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + atom + absolute": {
+        "fidelity": 0.27353498339653015,
+        "fidelity_inv": 0.2667980194091797,
+        "sparsity": 0.6043654680252075,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + signed": {
+        "fidelity": 0.3333044946193695,
+        "fidelity_inv": 0.13302092254161835,
+        "sparsity": 0.6043654680252075,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + absolute": {
+        "fidelity": 0.15359297394752502,
+        "fidelity_inv": 0.312434583902359,
+        "sparsity": 0.6043654680252075,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + signed": {
+        "fidelity": 0.21009179949760437,
+        "fidelity_inv": 0.23145060241222382,
+        "sparsity": 0.6043654680252075,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + absolute": {
+        "fidelity": 0.2688363790512085,
+        "fidelity_inv": 0.17840394377708435,
+        "sparsity": 0.6043654680252075,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + signed": {
+        "fidelity": 0.2359035164117813,
+        "fidelity_inv": 0.3571980595588684,
+        "sparsity": 0.6043654680252075,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + absolute": {
+        "fidelity": 0.19383330643177032,
+        "fidelity_inv": 0.25931188464164734,
+        "sparsity": 0.6043654680252075,
+        "accuracy": NaN,
+        "stability": NaN
+      }
+    },
+    "0.65": {
+      "all + atom + signed": {
+        "fidelity": 0.28386369347572327,
+        "fidelity_inv": 0.18864433467388153,
+        "sparsity": 0.6546849608421326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + atom + absolute": {
+        "fidelity": 0.2598317265510559,
+        "fidelity_inv": 0.2937623858451843,
+        "sparsity": 0.6546849608421326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + signed": {
+        "fidelity": 0.301769495010376,
+        "fidelity_inv": 0.16882659494876862,
+        "sparsity": 0.6546849608421326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + absolute": {
+        "fidelity": 0.12211352586746216,
+        "fidelity_inv": 0.329916387796402,
+        "sparsity": 0.6546849608421326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + signed": {
+        "fidelity": 0.18430106341838837,
+        "fidelity_inv": 0.21770267188549042,
+        "sparsity": 0.6546849608421326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + absolute": {
+        "fidelity": 0.2506294846534729,
+        "fidelity_inv": 0.2407938838005066,
+        "sparsity": 0.6546849608421326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + signed": {
+        "fidelity": 0.20749635994434357,
+        "fidelity_inv": 0.3970876634120941,
+        "sparsity": 0.6546849608421326,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + absolute": {
+        "fidelity": 0.17292971909046173,
+        "fidelity_inv": 0.2981203496456146,
+        "sparsity": 0.6546849608421326,
+        "accuracy": NaN,
+        "stability": NaN
+      }
+    },
+    "0.7": {
+      "all + atom + signed": {
+        "fidelity": 0.26052290201187134,
+        "fidelity_inv": 0.21739442646503448,
+        "sparsity": 0.7043183445930481,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + atom + absolute": {
+        "fidelity": 0.227204367518425,
+        "fidelity_inv": 0.3060329854488373,
+        "sparsity": 0.7043183445930481,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + signed": {
+        "fidelity": 0.2626037001609802,
+        "fidelity_inv": 0.1813858598470688,
+        "sparsity": 0.7043183445930481,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + absolute": {
+        "fidelity": 0.12356268614530563,
+        "fidelity_inv": 0.3286975920200348,
+        "sparsity": 0.7043183445930481,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + signed": {
+        "fidelity": 0.1576918661594391,
+        "fidelity_inv": 0.23161590099334717,
+        "sparsity": 0.7043183445930481,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + absolute": {
+        "fidelity": 0.1941962093114853,
+        "fidelity_inv": 0.2503436803817749,
+        "sparsity": 0.7043183445930481,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + signed": {
+        "fidelity": 0.19748790562152863,
+        "fidelity_inv": 0.39498305320739746,
+        "sparsity": 0.7043183445930481,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + absolute": {
+        "fidelity": 0.1788678616285324,
+        "fidelity_inv": 0.2955849766731262,
+        "sparsity": 0.7043183445930481,
+        "accuracy": NaN,
+        "stability": NaN
+      }
+    },
+    "0.75": {
+      "all + atom + signed": {
+        "fidelity": 0.22809761762619019,
+        "fidelity_inv": 0.23537331819534302,
+        "sparsity": 0.7541518807411194,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + atom + absolute": {
+        "fidelity": 0.1777282953262329,
+        "fidelity_inv": 0.313895583152771,
+        "sparsity": 0.7541518807411194,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + signed": {
+        "fidelity": 0.26901015639305115,
+        "fidelity_inv": 0.22334477305412292,
+        "sparsity": 0.7541518807411194,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + absolute": {
+        "fidelity": 0.12127645313739777,
+        "fidelity_inv": 0.33337536454200745,
+        "sparsity": 0.7541518807411194,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + signed": {
+        "fidelity": 0.13559183478355408,
+        "fidelity_inv": 0.27533555030822754,
+        "sparsity": 0.7541518807411194,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + absolute": {
+        "fidelity": 0.1866178810596466,
+        "fidelity_inv": 0.23364722728729248,
+        "sparsity": 0.7541518807411194,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + signed": {
+        "fidelity": 0.2039353996515274,
+        "fidelity_inv": 0.42580288648605347,
+        "sparsity": 0.7541518807411194,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + absolute": {
+        "fidelity": 0.16798430681228638,
+        "fidelity_inv": 0.3032194972038269,
+        "sparsity": 0.7541518807411194,
+        "accuracy": NaN,
+        "stability": NaN
+      }
+    },
+    "0.8": {
+      "all + atom + signed": {
+        "fidelity": 0.19478505849838257,
+        "fidelity_inv": 0.2505210041999817,
+        "sparsity": 0.8058593273162842,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + atom + absolute": {
+        "fidelity": 0.13555891811847687,
+        "fidelity_inv": 0.3150230348110199,
+        "sparsity": 0.8058593273162842,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + signed": {
+        "fidelity": 0.2140939086675644,
+        "fidelity_inv": 0.26896435022354126,
+        "sparsity": 0.8058593273162842,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "all + number + absolute": {
+        "fidelity": 0.11004026234149933,
+        "fidelity_inv": 0.3320063352584839,
+        "sparsity": 0.8058593273162842,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + signed": {
+        "fidelity": 0.1255539506673813,
+        "fidelity_inv": 0.2939479649066925,
+        "sparsity": 0.8058593273162842,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + atom + absolute": {
+        "fidelity": 0.16205893456935883,
+        "fidelity_inv": 0.22462832927703857,
+        "sparsity": 0.8058593273162842,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + signed": {
+        "fidelity": 0.1844988912343979,
+        "fidelity_inv": 0.42335841059684753,
+        "sparsity": 0.8058593273162842,
+        "accuracy": NaN,
+        "stability": NaN
+      },
+      "C + number + absolute": {
+        "fidelity": 0.14522969722747803,
+        "fidelity_inv": 0.30326899886131287,
+        "sparsity": 0.8058593273162842,
+        "accuracy": NaN,
+        "stability": NaN
+      }
+    }
+  },
+  "deep_lift": {
+    "0.5": {
+      "fidelity": 0.26413828134536743,
+      "fidelity_inv": 0.1084526851773262,
+      "sparsity": 0.502816915512085,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.55": {
+      "fidelity": 0.3002651035785675,
+      "fidelity_inv": 0.15287315845489502,
+      "sparsity": 0.5549535155296326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.6": {
+      "fidelity": 0.30768883228302,
+      "fidelity_inv": 0.13371264934539795,
+      "sparsity": 0.6043654680252075,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.65": {
+      "fidelity": 0.29753199219703674,
+      "fidelity_inv": 0.13801875710487366,
+      "sparsity": 0.6546849608421326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.7": {
+      "fidelity": 0.2822103798389435,
+      "fidelity_inv": 0.1419098824262619,
+      "sparsity": 0.7043183445930481,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.75": {
+      "fidelity": 0.27006906270980835,
+      "fidelity_inv": 0.13539618253707886,
+      "sparsity": 0.7541518807411194,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.8": {
+      "fidelity": 0.25144028663635254,
+      "fidelity_inv": 0.20653845369815826,
+      "sparsity": 0.8058593273162842,
+      "accuracy": NaN,
+      "stability": NaN
+    }
+  },
+  "gnn_explainer": {
+    "0.5": {
+      "fidelity": 0.24944551289081573,
+      "fidelity_inv": 0.18858970701694489,
+      "sparsity": 0.502816915512085,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.55": {
+      "fidelity": 0.21208766102790833,
+      "fidelity_inv": 0.215419739484787,
+      "sparsity": 0.5549535155296326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.6": {
+      "fidelity": 0.2055082470178604,
+      "fidelity_inv": 0.28434717655181885,
+      "sparsity": 0.6043654680252075,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.65": {
+      "fidelity": 0.15359175205230713,
+      "fidelity_inv": 0.34053879976272583,
+      "sparsity": 0.6546849608421326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.7": {
+      "fidelity": 0.15570946037769318,
+      "fidelity_inv": 0.41361889243125916,
+      "sparsity": 0.7043183445930481,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.75": {
+      "fidelity": 0.1431925892829895,
+      "fidelity_inv": 0.44154176115989685,
+      "sparsity": 0.7541518807411194,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.8": {
+      "fidelity": 0.13590383529663086,
+      "fidelity_inv": 0.4252556264400482,
+      "sparsity": 0.8058593273162842,
+      "accuracy": NaN,
+      "stability": NaN
+    }
+  },
+  "gnn_lrp": {
+    "0.5": {
+      "fidelity": 0.19197116792201996,
+      "fidelity_inv": 0.22678224742412567,
+      "sparsity": 0.502816915512085,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.55": {
+      "fidelity": 0.1887042075395584,
+      "fidelity_inv": 0.24668407440185547,
+      "sparsity": 0.5549535155296326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.6": {
+      "fidelity": 0.18610775470733643,
+      "fidelity_inv": 0.24170376360416412,
+      "sparsity": 0.6043654680252075,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.65": {
+      "fidelity": 0.1648906022310257,
+      "fidelity_inv": 0.26798561215400696,
+      "sparsity": 0.6546849608421326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.7": {
+      "fidelity": 0.1536681205034256,
+      "fidelity_inv": 0.29691213369369507,
+      "sparsity": 0.7043183445930481,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.75": {
+      "fidelity": 0.15966291725635529,
+      "fidelity_inv": 0.3279930651187897,
+      "sparsity": 0.7541518807411194,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.8": {
+      "fidelity": 0.13054488599300385,
+      "fidelity_inv": 0.3137744963169098,
+      "sparsity": 0.8058593273162842,
+      "accuracy": NaN,
+      "stability": NaN
+    }
+  },
+  "grad_cam": {
+    "0.5": {
+      "fidelity": 0.3242393434047699,
+      "fidelity_inv": 0.09635772556066513,
+      "sparsity": 0.502816915512085,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.55": {
+      "fidelity": 0.2883031666278839,
+      "fidelity_inv": 0.15786416828632355,
+      "sparsity": 0.5549535155296326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.6": {
+      "fidelity": 0.24208813905715942,
+      "fidelity_inv": 0.1925390660762787,
+      "sparsity": 0.6043654680252075,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.65": {
+      "fidelity": 0.2185654193162918,
+      "fidelity_inv": 0.21965983510017395,
+      "sparsity": 0.6546849608421326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.7": {
+      "fidelity": 0.19467394053936005,
+      "fidelity_inv": 0.22930864989757538,
+      "sparsity": 0.7043183445930481,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.75": {
+      "fidelity": 0.15910708904266357,
+      "fidelity_inv": 0.2904430627822876,
+      "sparsity": 0.7541518807411194,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.8": {
+      "fidelity": 0.13495926558971405,
+      "fidelity_inv": 0.2994777262210846,
+      "sparsity": 0.8058593273162842,
+      "accuracy": NaN,
+      "stability": NaN
+    }
+  },
+  "pgexplainer": {
+    "0.5": {
+      "fidelity": 0.364081472158432,
+      "fidelity_inv": 0.12194127589464188,
+      "sparsity": 0.502816915512085,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.55": {
+      "fidelity": 0.3352995812892914,
+      "fidelity_inv": 0.14396513998508453,
+      "sparsity": 0.5549535155296326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.6": {
+      "fidelity": 0.3305947184562683,
+      "fidelity_inv": 0.141506627202034,
+      "sparsity": 0.6043654680252075,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.65": {
+      "fidelity": 0.3145769536495209,
+      "fidelity_inv": 0.19351613521575928,
+      "sparsity": 0.6546849608421326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.7": {
+      "fidelity": 0.3086411952972412,
+      "fidelity_inv": 0.20023591816425323,
+      "sparsity": 0.7043183445930481,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.75": {
+      "fidelity": 0.31373435258865356,
+      "fidelity_inv": 0.2811242640018463,
+      "sparsity": 0.7541518807411194,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.8": {
+      "fidelity": 0.2675093412399292,
+      "fidelity_inv": 0.2432132214307785,
+      "sparsity": 0.8058593273162842,
+      "accuracy": NaN,
+      "stability": NaN
+    }
+  },
+  "gnn_gi": {
+    "0.5": {
+      "fidelity": 0.39838510751724243,
+      "fidelity_inv": 0.11907089501619339,
+      "sparsity": 0.502816915512085,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.55": {
+      "fidelity": 0.3559496998786926,
+      "fidelity_inv": 0.10281384736299515,
+      "sparsity": 0.5549535155296326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.6": {
+      "fidelity": 0.34192079305648804,
+      "fidelity_inv": 0.10748272389173508,
+      "sparsity": 0.6043654680252075,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.65": {
+      "fidelity": 0.3387073576450348,
+      "fidelity_inv": 0.11255592852830887,
+      "sparsity": 0.6546849608421326,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.7": {
+      "fidelity": 0.33717265725135803,
+      "fidelity_inv": 0.1593857854604721,
+      "sparsity": 0.7043183445930481,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.75": {
+      "fidelity": 0.3294253647327423,
+      "fidelity_inv": 0.14645659923553467,
+      "sparsity": 0.7541518807411194,
+      "accuracy": NaN,
+      "stability": NaN
+    },
+    "0.8": {
+      "fidelity": 0.2829383909702301,
+      "fidelity_inv": 0.24205052852630615,
+      "sparsity": 0.8058593273162842,
+      "accuracy": NaN,
+      "stability": NaN
+    }
+  }
+}
