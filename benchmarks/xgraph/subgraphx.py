@@ -77,7 +77,7 @@ def pipeline(config):
                               save_dir=explanation_saving_dir)
         index = 0
         x_collector = XCollector()
-        for i, data in enumerate(dataset[test_indices]):
+        for i, data in enumerate(dataset[test_indices[:50]]):
             index += 1
             data.to(device)
             data.edge_index = add_remaining_self_loops(data.edge_index, num_nodes=data.num_nodes)[0]

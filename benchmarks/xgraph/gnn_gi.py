@@ -178,6 +178,8 @@ def pipeline(config):
     recorder.append(experiment_settings=['gnn_gi', f"{config.explainers.sparsity}"],
                     experiment_data=experiment_data)
 
+    recorder.save()
+
 
 if __name__ == '__main__':
     import sys

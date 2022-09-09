@@ -154,7 +154,7 @@ class GNNExplainer(ExplainerBase):
                 self.__clear_masks__()
                 self.__set_masks__(x, self_loop_edge_index)
                 edge_mask = self.gnn_explainer_alg(x_exp, self_loop_edge_index, ex_label, mask_features)
-                new_edge_mask = torch.full_like(self.hard_edge_mask.float(), fill_value=-torch.inf)
+                new_edge_mask = torch.full_like(self.hard_edge_mask.float(), fill_value=-float('inf'))
                 new_edge_mask[self.hard_edge_mask] = edge_mask
                 edge_masks.append(new_edge_mask)
 
